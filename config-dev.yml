@@ -1,5 +1,1 @@
-spring: 
-  getaway: 
-    route: 
-      id: new_bee
-      url: localhost:8080
+Myconfig dev version1.0
